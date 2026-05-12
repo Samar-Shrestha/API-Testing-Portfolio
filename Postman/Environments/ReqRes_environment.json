@@ -1,0 +1,22 @@
+{
+	"id": "300d1f1f-0182-4554-a32a-092aa9acb8d9",
+	"name": "resreq.in",
+	"values": [
+		{
+			"key": "base_url",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "user_Id",
+			"value": "",
+			"type": "any",
+			"enabled": true
+		}
+	],
+	"color": null,
+	"_postman_variable_scope": "environment",
+	"_postman_exported_at": "2026-05-12T06:07:45.519Z",
+	"_postman_exported_using": "Postman/12.10.2-260512-0232"
+}
