@@ -223,7 +223,7 @@ pm.test("Response time is less than 3 seconds", function () {
 ## 👤 Author
 
 **Samar Shrestha**
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
+- LinkedIn: [linkedin.com/in/your-profile](www.linkedin.com/in/samar-shrestha-512101249)
 - GitHub: [github.com/Samar-Shrestha](https://github.com/Samar-Shrestha)
 - Email: shresthasamar76@gmail.com
 
